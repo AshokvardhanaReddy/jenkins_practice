@@ -34,3 +34,14 @@ Webhook integration testing in progress.
 **Last Updated:** November 22, 2026
 
 **Environment:** Demo
+
+
+# Jenkins Webhook Demo
+
+Testing GitHub Webhook integration with Jenkins.
+
+- Automatic build triggering on Git push.
+- GitHub and Jenkins integration.
+- CI/CD pipeline demonstration.
+
+**Status:** Testing in Progress.
